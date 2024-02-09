@@ -1,1 +1,1 @@
-This text does not tell the truth
+This text does not tell the truth. Go to truth.txt to see the truth.
