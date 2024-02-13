@@ -2,7 +2,10 @@ x-wing
 tie fighter
 a-wing
 z-wing
+<<<<<<< HEAD
 tie interceptor 
 arc-170
 b-wing
-
+y-wing
+tie bomber
+ptb-625
